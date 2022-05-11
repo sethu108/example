@@ -1,2 +1,7 @@
-this is an example modified
+this is also an example
+
+this is exampe modified by adding another line
+
 further modification on abc
+
+this is also like adding a new line
